@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+
+    <parent>
+        <groupId>cn.linkea.gnss</groupId>
+        <artifactId>gnss-jt808</artifactId>
+        <version>1.0-RELEASE</version>
+    </parent>
+
+    <artifactId>gnss-server-base</artifactId>
+    <modelVersion>4.0.0</modelVersion>
+    <packaging>pom</packaging>
+    <version>1.0-RELEASE</version>
+    <modules>
+        <module>gnss-server-boot-starter</module>
+        <module>gnss-server-support</module>
+        <module>gnss-server-core</module>
+    </modules>
+
+</project>
