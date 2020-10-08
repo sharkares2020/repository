@@ -7,7 +7,7 @@
   <parent>
     <groupId>cn.linkea.gnss</groupId>
     <artifactId>gnss-server-base</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0-RELEASE</version>
   </parent>
 
   <artifactId>gnss-server-boot-starter</artifactId>
